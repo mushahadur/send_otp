@@ -1,0 +1,1 @@
+<h1>You are verified ! Thank You  => {{Auth::user()->name}}</h1>
